@@ -1,0 +1,10 @@
+body{
+    font-family: Courier New, Courier;
+    margin: 0;
+    background-color: #29046d;
+}
+header{
+    background-color: #da0f0f;
+    color: #ffffff;
+    padding: 15px;
+}
